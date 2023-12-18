@@ -1,5 +1,4 @@
 package rw.ac.rca.CalculatorLogic.utils;
-
 import org.junit.jupiter.api.Test;
 import rw.ac.rca.CalculatorLogic.exceptions.InvalidOperationException;
 import rw.ac.rca.CalculatorLogic.serviceImpls.MathOperatorImpl;
