@@ -11,7 +11,7 @@ import rw.ac.rca.CalculatorLogic.payload.ApiResponse;
 import rw.ac.rca.CalculatorLogic.serviceImpls.MathOperatorImpl;
 
 @RestController
-@RequestMapping("/api/v1/do_math")
+@RequestMapping("/api/do_math")
 public class MathController {
     private final MathOperatorImpl mathOperatorImpl;
 
